@@ -11,4 +11,4 @@ candlesticks = client.get_historical_klines("BTCUSDT", Client.KLINE_INTERVAL_15M
 
 
 
-![Bitcoin](./nombre_de_imagen.png)
+![Bitcoin](./grafica.jpg)
